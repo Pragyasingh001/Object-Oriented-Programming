@@ -1,2 +1,0 @@
-TOM,customer1,c1,VIP
-JERRY,customer2,c2,REGULAR
